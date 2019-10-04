@@ -1,0 +1,13 @@
+target/
+.idea/
+logs/
+*.class
+.classpath
+.project
+.settings
+bin
+*.iml
+*.DS_Store
+node_nodules/
+package-lock.json
+*/node_modules/
